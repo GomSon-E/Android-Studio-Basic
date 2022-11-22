@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32008682951",
+    "project_id": "push-59fc1",
+    "storage_bucket": "push-59fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32008682951:android:6b565b2ecdb2e589d72de2",
+        "android_client_info": {
+          "package_name": "org.techtown.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32008682951-pq7sbdvi41ucm0g2n8coppkl6n2ou8lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFwwemOLkuVHh4p4Zm29Y4dNqvfdFDHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32008682951-pq7sbdvi41ucm0g2n8coppkl6n2ou8lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
